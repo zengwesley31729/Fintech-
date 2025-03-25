@@ -1,2 +1,2 @@
-# Fintech-
+# Fintech
 Fintech data
